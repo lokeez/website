@@ -1,0 +1,10 @@
+email: stadnyk.oleg@gmail.com
+fullname: 'Oleg Stadnyk'
+title: 'Site Administrator'
+access:
+  admin:
+    login: true
+    super: true
+language: ru
+authenticated: true
+hashed_password: $2y$10$LeAzOYSftr/ODzzs8EXlKe1Azk0NCuc3m.jPF.As/n6AtnOT4so7C
