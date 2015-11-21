@@ -1,5 +1,4 @@
-/* @import url(//fonts.googleapis.com/css?family=Montserrat:400|Raleway:300,400,600|Inconsolata); */
-@import url(//fonts.googleapis.com/css?family=Lora:400|Noto+Serif:300,400,600|EB+Garamond&subset=cyrillic);
+@import url(//fonts.googleapis.com/css?family=Montserrat:400|Raleway:300,400,600|Inconsolata);
 #header #logo h3, #header #navbar ul.navigation, #header #navbar .panel-activation, #footer p {
   position: relative;
   top: 50%;
@@ -119,7 +118,7 @@ b, strong, label, th {
           float: left;
           position: relative; }
           #header #navbar ul.navigation li a {
-            font-family: "Lora", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+            font-family: "Montserrat", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
             display: inline-block;
             padding: 0.3rem 0.8rem; }
             #header #navbar ul.navigation li a:before, #header #navbar ul.navigation li a:after {
@@ -258,11 +257,11 @@ b, strong, label, th {
       color: #fff; }
 
 html, body, button, input, select, textarea, .pure-g, .pure-g [class*="pure-u"] {
-  font-family: "Noto Serif", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+  font-family: "Raleway", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
   font-weight: 400; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Lora", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+  font-family: "Montserrat", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
   font-weight: 400;
   text-rendering: optimizeLegibility;
   letter-spacing: -0px; }
@@ -311,7 +310,7 @@ h1 + h2 {
   font-size: 2rem;
   line-height: 1;
   text-align: center;
-  font-family: "Noto Serif", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+  font-family: "Raleway", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
   font-weight: 300; }
   @media only all and (min-width: 48em) and (max-width: 59.938em) {
     h1 + h2 {
@@ -325,7 +324,7 @@ h2 + h3 {
   font-size: 2rem;
   line-height: 1;
   text-align: center;
-  font-family: "Noto Serif", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+  font-family: "Raleway", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
   font-weight: 300; }
   @media only all and (min-width: 48em) and (max-width: 59.938em) {
     h2 + h3 {
@@ -378,7 +377,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: "EB Garamond", monospace; }
+  font-family: "Inconsolata", monospace; }
 
 code {
   background: #f9f2f4;
@@ -415,7 +414,7 @@ hr {
   display: inline-block;
   text-align: center;
   font-size: 0.7rem;
-  font-family: "Lora", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+  font-family: "Montserrat", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
   margin-right: 0.75rem; }
 
 fieldset {
