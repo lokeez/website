@@ -1,4 +1,5 @@
-cache
-images
-backup
-bin
+/images/*
+/cache/*
+/logs/*
+/backup/*
+/bin/*
